@@ -1,0 +1,1 @@
+java -jar wiremock.jar --local-response-templating --port 8080 --verbose
